@@ -48,7 +48,7 @@
 -   AWS: just learning
 -   Vercel: I deployed a reactjs website on Vercel.
 -   Some of other technology: Nextjs, PWA, Docker, SQl query, Git, Socket, Linux, Postman, MVC
-<br />
+    <br />
 
 ---
 
