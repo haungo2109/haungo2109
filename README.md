@@ -5,19 +5,16 @@
 -   😀 I'm a Front-End Developer!!
 -   🔭 I love to make a website
 -   🌱 I’m currently learning Front-End to Back-End 🤣
--   👯 I’m looking to collaborate with other content creators
--   🥅 2020 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to draw in PS and cooking
 
 #### Contact with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./images/icon/icons8-website-50.png" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-call-50.png" />][phone]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-facebook-50.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-email-50.png" />][email]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-skype-50.png" />][skype]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-github-50.png" />][github]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-gitlab-50.png" />][gitlab]
+-   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-email-50.png" /> [Gmail](ngovanhau1999@gmail.com)
+-   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-skype-50.png" /> [Skype](https://join.skype.com/invite/c3exUOyePXiA)
+
+-   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-github-50.png" /> [Github](https://github.com/haungo2109)
+
+-   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-gitlab-50.png" /> [Gitlab](https://gitlab.com/hau44161)
+
 <br />
 
 ---
@@ -45,10 +42,11 @@
 
 #### Tech I've known
 
--   AWS: just learning
--   Vercel: I deployed a reactjs website on Vercel.
--   Some of other technology: Nextjs, PWA, Docker, SQl query, Git, Socket, Linux, Postman, MVC
-    <br />
+-   Firebase
+-   Nextjs
+-   Other: PWA, Docker, SQl query, Git, Socket, Linux, Postman
+
+<br />
 
 ---
 
@@ -63,12 +61,6 @@
 #### Personal project
 
 -   [App BĐS: Nextjs](http://bds-chu-quy-nextjs.vercel.app/)
--   [App sale: React, Redux, Mogondb](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-
-[website]: https://haungo2109.github.io/
-[email]: ngovanhau1999@gmail.com
-[phone]: 0383793662
-[facebook]: https://www.facebook.com/haungo1999/
-[skype]: ngovanhau1999
-[github]: https://github.com/haungo2109
-[gitlab]: https://gitlab.com/hau44161
+-   [App sale: React, Redux, Mogondb](https://gitlab.com/hau44161/web-ban-hang)
+-   [Manage Proof'sv5t of Student](https://sv5titou.web.app/news)
+-   [SEO financial website](https://tindung24h.com.vn/)
