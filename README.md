@@ -15,11 +15,7 @@
 
 -   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="./images/icon/icons8-gitlab-50.png" /> [Gitlab](https://gitlab.com/hau44161)
 
-<br />
-
 ---
-
-<br />
 
 ## Skill
 
@@ -46,11 +42,7 @@
 -   Nextjs
 -   Other: PWA, Docker, SQl query, Git, Socket, Linux, Postman
 
-<br />
-
 ---
-
-<br />
 
 ## Work experience
 
